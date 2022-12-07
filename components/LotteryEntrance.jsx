@@ -96,7 +96,7 @@ export default function LotteryEntrance() {
 
     return (
         <div class="p-5">
-            Hi, from raffle entrance!{" "}
+            Hi, from Raffle!{" "}
             {raffleAddress ? (
                 <div className="">
                     <button
